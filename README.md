@@ -1,7 +1,5 @@
 ### Hi, I'm Satenik 👋
 
-<!--
-**SatenikS/SatenikS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Data Scientist with more than 5 years of experience in operations management, data analytics, finance and marketing.
 
@@ -14,5 +12,9 @@ Fun Facts about me:
 
 Find me around the globe 🌎
 LinkedIn: https://www.linkedin.com/in/satenik-safaryan/
+
+<!--
+**SatenikS/SatenikS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
