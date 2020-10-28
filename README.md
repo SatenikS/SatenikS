@@ -1,16 +1,15 @@
-### Hi, I'm Satenik 👋
+### Hey there, I'm Satenik 👋
 
 
 Data Scientist with more than 5 years of experience in operations management, data analytics, finance and marketing.
 
 Fun Facts about me:
-1) I'm a giant Harry Potter fan
-2) I have graduated from musical school department of piano
-3) I have selective photographic memory. So I easily remember places that I find interesting.
-4) My favourite meal of the day is breakfast.
+1) I'm a giant Harry Potter fan.
+2) I have graduated from a musical school.
+3) My favourite meal of the day is breakfast.
 
 
-Find me around the globe 🌎
+Get in touch 🌎
 LinkedIn: https://www.linkedin.com/in/satenik-safaryan/
 
 <!--
