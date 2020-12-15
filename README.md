@@ -1,7 +1,7 @@
 ### Hey there, I'm Satenik 👋
 
 
-Data Scientist with more than 5 years of experience in operations management, data analytics, finance and marketing.
+Data Scientist with more than six years of experience in operations management, data analytics, finance and marketing.
 
 Fun Facts about me:
 1) I'm a giant Harry Potter fan.
